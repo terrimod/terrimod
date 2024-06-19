@@ -1,12 +1,4 @@
 <p align="center">
-  <a href="https://fxclient.github.io/FXclient/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="/assets/logo_text_dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="/assets/logo_text_light.png">
-      <img src="/assets/logo_text_light.png" width="20%">
-    </picture>
-  </a>
-  
 ## What is Terrimod?
 Terrimod is one of the Territorial.io client, targeting better User Interface and better User Experience, It's basically Territorial.io but better.
 
